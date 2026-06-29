@@ -33,8 +33,18 @@ python unit_converter.py
 
 ## 📸 Screenshot
 
-(Add a screenshot here)
+<img width="599" height="566" alt="Screenshot 2026-06-29 111910" src="https://github.com/user-attachments/assets/7ae30460-2118-47f6-b6a3-65776713cc15" />
+
 
 ## 📄 License
 
 This project is open source and free to use.
+
+## 👨‍💻 Author
+
+**Aditya Sharma**
+
+- GitHub: https://github.com/adityasharmadandotia-star
+
+---
+⭐ If you like this project, don't forget to give it a star!
