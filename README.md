@@ -9,8 +9,9 @@ A simple and user-friendly **Unit Converter** desktop application built with **P
 > Add a screenshot of the application here.
 
 Example:
+<img width="743" height="929" alt="image" src="https://github.com/user-attachments/assets/e35d01d7-4d3f-4159-870a-9cdcfecfd542" />
 
-![Unit Converter Screenshot](screenshot.png)
+
 
 ---
 
