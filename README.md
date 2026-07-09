@@ -1,50 +1,134 @@
-# 🔄 Unit Converter
+# ⚡ Unit Converter
 
-A simple and user-friendly Unit Converter application built using Python and Tkinter.
+A simple and user-friendly **Unit Converter** desktop application built with **Python** and **Tkinter**. It allows users to quickly convert values between different measurement units through an intuitive graphical interface.
 
-## 📌 Features
+---
+
+## 📸 Preview
+
+> Add a screenshot of the application here.
+
+Example:
+
+![Unit Converter Screenshot](screenshot.png)
+
+---
+
+## ✨ Features
 
 - 📏 Length Conversion
+  - Meter
+  - Kilometer
+  - Centimeter
+  - Millimeter
+
 - ⚖️ Weight Conversion
+  - Kilogram
+  - Gram
+  - Pound
+
 - 🌡️ Temperature Conversion
-- 🖥️ Easy-to-use GUI
+  - Celsius
+  - Fahrenheit
+  - Kelvin
+
+- 🎨 Modern Dark Theme UI
 - ⚡ Fast and Accurate Conversion
+- 🖱️ Easy-to-use Graphical Interface
+- ❌ Error Handling for Invalid Inputs
+
+---
 
 ## 🛠️ Technologies Used
 
 - Python 3
 - Tkinter
+- ttk Widgets
 
-## 🚀 How to Run
+---
 
-1. Clone this repository
+## 📂 Project Structure
+
+```
+Unit-Converter/
+│── unit_converter.py
+│── README.md
+│── screenshot.png
+```
+
+---
+
+## 🚀 Installation
+
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/Unit-Converter.git
 ```
 
-2. Open the project folder
+### 2. Navigate to Project
 
-3. Run
+```bash
+cd Unit-Converter
+```
+
+### 3. Run the Application
 
 ```bash
 python unit_converter.py
 ```
 
-## 📸 Screenshot
+---
 
-<img width="599" height="566" alt="Screenshot 2026-06-29 111910" src="https://github.com/user-attachments/assets/7ae30460-2118-47f6-b6a3-65776713cc15" />
+## 💻 Requirements
 
+- Python 3.x
+
+No external libraries are required.
+
+---
+
+## 📷 Interface
+
+- Dark Theme
+- Clean Layout
+- Dropdown Menus
+- Convert Button
+- Instant Results
+
+---
+
+## 📌 Future Improvements
+
+- 🔄 Swap Units Button
+- 📜 Conversion History
+- 🌍 More Unit Categories
+- 💰 Currency Converter
+- 📐 Area & Volume Conversion
+- ⚡ Better UI Design
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Open a Pull Request
+
+---
 
 ## 📄 License
 
-This project is open source and free to use.
+This project is licensed under the MIT License.
+
+---
 
 ## 👨‍💻 Author
 
 **Aditya Sharma**
 
-- GitHub: https://github.com/adityasharmadandotia-star
+GitHub: https://github.com/your-github-username
 
----
-⭐ If you like this project, don't forget to give it a star!
